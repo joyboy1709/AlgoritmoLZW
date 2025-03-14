@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 /**
  *
- * @author santu
+ * @author santi
  */
 public class LZW {
     private Map<String, Integer> dictionary;
